@@ -30,7 +30,16 @@ The Firestar was developed by **ClutchFire3D** leveraging **PolarStar Airsoft** 
 
 ---
 
-## 8. Step-by-Step Assembly
+## ❤️ Support the Mission (Keep the Fire Burning)
+The **Firestar** is an open-source project that represents hundreds of hours of R&D, prototyping, and official collaboration with **Polarstar**. We are releasing it for free to empower the airsoft community.
+
+**If you find this project valuable, please consider supporting our work. Your donations directly fund future open-source releases and new hardware development!**
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support%20Clutchfire-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/clutchfire3d)
+
+---
+
+# Step-by-Step Assembly
 
 ### Step 1: Lower Receiver Preparation
 * **Trigger:** Install the trigger blade. Note the specific slot to prevent the selector from over-rotating. Secure with an M3 screw.
@@ -94,3 +103,5 @@ The Firestar was developed by **ClutchFire3D** leveraging **PolarStar Airsoft** 
 Share your Firestar build on Instagram and tag **@ClutchFire3D**.
 
 [Join our Discord](https://discord.gg/qV8xHUUq) | [Support the Project](https://clutchfire.com)
+
+---
