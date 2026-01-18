@@ -46,7 +46,7 @@ The **Firestar** is an open-source project that represents hundreds of hours of 
 # Step 1: Lower Receiver Preparation
 
 
-## * **Trigger:** Install the trigger blade. Note the specific slot to prevent the selector from over-rotating. Secure with an M3 screw.
+## **Trigger:** Install the trigger blade. Note the specific slot to prevent the selector from over-rotating. Secure with an M3 screw.
 ![Trigger Install](Pages/Images/img1.jpg)
 
 
@@ -58,7 +58,7 @@ The **Firestar** is an open-source project that represents hundreds of hours of 
 ![Grip Mount](Pages/Images/img4.jpg)
 ![Grip Mount](Pages/Images/img5.jpg)
 
----
+
 
 # Step 2: Upper Receiver & Handguard
 
@@ -86,7 +86,7 @@ The **Firestar** is an open-source project that represents hundreds of hours of 
 ![Hopup Install](Pages/Images/img12_1.jpg)
 ![Hopup Install](Pages/Images/img13.jpg)
 
----
+
 
 # Step 3: Trigger Housing & HPA
 
@@ -104,7 +104,7 @@ The **Firestar** is an open-source project that represents hundreds of hours of 
 ## * **Selector:** Snap the Selector Plate into place.
 ![Selector Plate](Pages/Images/img18.jpg)
 
----
+
 
 # Step 4: Stock Adapter
 
@@ -116,7 +116,7 @@ The **Firestar** is an open-source project that represents hundreds of hours of 
 ## * **Fixation:** Install the Stock Adapter before the HPA system and secure it with the M5 screw.
 ![Adapter Mount](Pages/Images/img20.jpg)
 
----
+
 
 # Step 5: Final System Assembly
 
@@ -158,7 +158,7 @@ The **Firestar** is an open-source project that represents hundreds of hours of 
 ![Final Wiring](Pages/Images/img27.jpg)
 ![Final Wiring](Pages/Images/img28.jpg)
 
----
+
 
 ## 🔥 Build Complete!
 Share your Firestar build on Instagram and tag **@ClutchFire3D**.
