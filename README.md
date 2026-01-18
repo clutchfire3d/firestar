@@ -1,6 +1,8 @@
 # Firestar – Assembly & Printing Manual 🚀
 **Created by:** [@ClutchFire3D](https://www.instagram.com/clutchfire3d/)
 
+[**🌐 View Official Website**](https://clutchfire3d.github.io/firestar/)
+
 ---
 
 ## ⚖️ License & Terms of Use
