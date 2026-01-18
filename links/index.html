@@ -6,14 +6,12 @@
     <title>ClutchFire3D | Links</title>
     <style>
         body {
-            /* Fundo padrão caso a imagem falhe */
             background-color: #0f0f0f; 
-            /* Tentativa de carregar imagem temática de Airsoft */
-            background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.85)), url('Pages/Images/airsoft-bg.jpg');
+            /* O ../ serve para buscar a imagem na raiz do projeto */
+            background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.85)), url('../Pages/Images/airsoft-bg.jpg');
             background-size: cover;
             background-position: center;
             background-attachment: fixed;
-            
             color: #ffffff;
             font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
             display: flex;
@@ -30,8 +28,8 @@
             border-radius: 50%;
             border: 3px solid #ff4b2b;
             margin-bottom: 15px;
-            /* Caminho corrigido da sua logo */
-            background-image: url('Pages/Images/ClutchFireImg.jpg'); 
+            /* Corrigido para buscar na raiz */
+            background-image: url('../Pages/Images/ClutchFireImg.jpg'); 
             background-size: cover;
             background-position: center;
             background-color: #1a1a1a;
@@ -65,7 +63,7 @@
             font-weight: 600;
             transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
             display: block;
-            backdrop-filter: blur(5px); /* Efeito de vidro */
+            backdrop-filter: blur(5px);
         }
 
         .link-card:hover {
@@ -99,9 +97,9 @@
     <h1>ClutchFire3D</h1>
 
     <div class="container">
-        <a href="https://clutchfire3d.github.io/firestar/" class="link-card highlight">🔥 Firestar Building Manual</a>
+        <a href="https://clutchfire3d.github.io/firestar/" target="_blank" class="link-card highlight">🔥 Firestar Building Manual</a>
 
-        <a href="https://clutchfire3d.github.io/firestar/discord" class="link-card">💬 Join our Discord Community</a>
+        <a href="https://clutchfire3d.github.io/firestar/discord" target="_blank" class="link-card">💬 Join our Discord Community</a>
 
         <a href="https://www.instagram.com/clutchfire3d/" target="_blank" class="link-card">📸 Follow on Instagram</a>
 
