@@ -163,6 +163,6 @@ The **Firestar** is an open-source project that represents hundreds of hours of 
 ## 🔥 Build Complete!
 Share your Firestar build on Instagram and tag **@ClutchFire3D**.
 
-![Final Build](Pages/Images/img29.jpg)
-
 [Join our Discord](https://discord.gg/qV8xHUUq) | [Support the Project](https://clutchfire.com)
+
+![Final Build](Pages/Images/img29.jpg)
