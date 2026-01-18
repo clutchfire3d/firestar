@@ -18,8 +18,8 @@ This project is licensed under **CC BY-NC-ND 4.0**.
 
 ## 📌 Table of Contents
 * [1. Meet Firestar](#1-meet-firestar)
-* [2. Recommended Print Settings](#-recommended-print-settings)
-* [3. Support the Mission](#️-support-the-mission-keep-the-fire-burning)
+* [2. Recommended Print Settings](#recommended-print-settings)
+* [3. Support the Mission](#support-the-mission-keep-the-fire-burning)
 * [Step 1: Lower Receiver Preparation](#step-1-lower-receiver-preparation)
 * [Step 2: Upper Receiver & Handguard](#step-2-upper-receiver--handguard)
 * [Step 3: Trigger Housing & HPA](#step-3-trigger-housing--hpa)
