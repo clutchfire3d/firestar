@@ -12,7 +12,7 @@ This project is licensed under **CC BY-NC-ND 4.0**.
 ## 1. Meet Firestar
 **Forget Gearboxes. Embrace Innovation.**
 
-![Firestar Image]("Pages\Images\Firestar.jpg")
+![Firestar](Pages/Images/Firestar.jpg)
 
 The Firestar was developed by **ClutchFire3D** leveraging **PolarStar Airsoft** technology. Designed from the ground up to extract maximum performance from the **F2™ and Jack™ HPA engines**, this platform eliminates the limitations of adapted AEG bodies.
 
