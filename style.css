@@ -1,0 +1,155 @@
+/* Importa a fonte 'Inter' do Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
+
+/* Variáveis de Cor para fácil customização */
+:root {
+    --primary-red: #E53935; /* Vermelho inspirado no projeto */
+    --dark-gray: #212121;
+    --medium-gray: #424242;
+    --light-gray: #f5f5f5;
+    --border-color: #e0e0e0;
+    --background-color: #ffffff;
+    --link-color: #0D47A1;
+}
+
+/* Reset básico e Estilos Globais */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif;
+    line-height: 1.7;
+    background-color: var(--light-gray);
+    color: var(--dark-gray);
+}
+
+.container {
+    max-width: 850px;
+    margin: 30px auto;
+    background-color: var(--background-color);
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+    padding: 20px 40px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+}
+
+/* Cabeçalho e Títulos */
+h1, h2, h3 {
+    line-height: 1.3;
+    margin-bottom: 0.5em;
+}
+
+header p {
+    margin-bottom: 1.5em;
+}
+
+h1 { font-size: 2.2em; color: var(--dark-gray); border-bottom: 2px solid var(--primary-red); padding-bottom: 0.3em; }
+h2 { font-size: 1.6em; color: var(--medium-gray); border-bottom: 1px solid var(--border-color); padding-bottom: 0.3em; }
+h3 { font-size: 1.25em; border-bottom: none; color: var(--primary-red); }
+
+main > section {
+    margin-bottom: 50px;
+}
+
+/* Links e Navegação */
+a { color: var(--link-color); text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+.assembly-intro {
+    background-color: var(--light-gray);
+    border-top: 1px solid var(--border-color);
+    border-bottom: 1px solid var(--border-color);
+    padding: 30px 20px;
+    margin: 50px -40px;
+    text-align: center;
+}
+.assembly-intro h2 {
+    border-bottom: none;
+    margin-bottom: 20px;
+}
+
+nav {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+    padding: 0;
+    margin: 0;
+}
+nav a {
+    background-color: #fff;
+    border: 1px solid var(--border-color);
+    padding: 10px 20px;
+    border-radius: 25px;
+    margin: 0;
+    font-weight: bold;
+    color: var(--medium-gray);
+    transition: all 0.2s ease-in-out;
+    text-decoration: none;
+}
+nav a:hover {
+    background-color: var(--primary-red);
+    color: #fff;
+    border-color: var(--primary-red);
+    text-decoration: none;
+}
+
+/* Elementos do Manual */
+img { max-width: 100%; height: auto; border-radius: 8px; display: block; margin: 1.5em 0; }
+table { border-collapse: collapse; width: 100%; margin: 1.5em 0; }
+th, td { border: 1px solid var(--border-color); padding: 12px; text-align: left; }
+th { background-color: var(--light-gray); font-weight: bold; }
+
+.step { border-top: 2px solid var(--border-color); padding-top: 30px; margin-top: 40px; }
+
+/* Remove a margem superior do primeiro passo para um espaçamento mais limpo após a navegação */
+.assembly-intro + .step {
+    margin-top: 0;
+}
+
+/* Alertas Visuais */
+.warning { background-color: #FFF3E0; border-left: 4px solid #FF9800; padding: 15px 20px; margin: 1.5em 0; border-radius: 0 4px 4px 0; }
+.important { background-color: #E3F2FD; border-left: 4px solid #2196F3; padding: 15px 20px; margin: 1.5em 0; border-radius: 0 4px 4px 0; }
+
+.image-table td { border: none; text-align: center; padding: 5px; }
+
+/* Rodapé */
+footer {
+    text-align: center;
+    margin-top: 40px;
+    padding-top: 20px;
+    border-top: 1px solid var(--border-color);
+    color: var(--medium-gray);
+}
+/* Remove border from H2 inside the footer */
+footer h2 {
+    border-bottom: none;
+}
+
+/* --- Responsividade para Smartphones --- */
+@media (max-width: 768px) {
+    .container {
+        margin: 0;
+        padding: 15px 20px;
+        border-radius: 0;
+        border: none;
+    }
+
+    .assembly-intro {
+        margin: 40px -20px;
+    }
+
+    h1 { font-size: 1.8em; }
+    h2 { font-size: 1.4em; }
+
+    nav {
+        padding: 0;
+    }
+    nav a {
+        /* No need to stack them anymore with flex-wrap */
+        margin: 0;
+    }
+}
