@@ -1,3 +1,4 @@
 *.stl
 *.step
 *.f3d
+/STLs

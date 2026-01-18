@@ -97,10 +97,10 @@ Slide the Upper into the Handguard and secure both sides with M3 screws.
 | :---: | :---: |
 | ![Upper Handguard Join](Pages/Images/img11.jpg) | ![Upper Handguard Join](Pages/Images/img10.jpg) |
 
-### **Hop-up**
-Slide the assembled Hop-up and inner barrel into the Upper until it hits the internal limiter.
+### **Hopup**
+Slide the assembled Hopup and inner barrel into the Upper until it hits the internal limiter.
 
-| Hop-up Unit | Maxx Model View |
+| Polarstar Hopup Thing | Maxx Model View |
 | :---: | :---: |
 | ![Hopup Install](Pages/Images/img12.jpg) | ![Hopup Install](Pages/Images/img12_1.jpg) |
 
@@ -153,7 +153,7 @@ Slide the Trigger Housing into the Lower and lock it with the **Lower Pin**.
 ![Trigger Box Install](Pages/Images/img22.jpg)
 
 ### **Engine**
-Slide the F2 engine into the Upper until it seats into the Hop-up.
+Slide the F2 engine into the Upper until it seats into the Hopup.
 ![Engine Slide](Pages/Images/img23.jpg)
 
 ### **Lock**
