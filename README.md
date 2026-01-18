@@ -66,8 +66,7 @@ Using a soldering iron, install the M3 brass inserts into the Pistol Grip mounti
 
 ### **Grip**
 Bolt the Pistol Grip to the body using M3 screws.
-![Grip Mount](Pages/Images/img4.jpg)
-![Grip Mount](Pages/Images/img5.jpg)
+![Grip Mount](Pages/Images/img4.jpg) | ![Grip Mount](Pages/Images/img5.jpg)
 
 ---
 
@@ -83,18 +82,15 @@ Screw the 14mm CCW adapter onto the Outer Barrel tip.
 
 ### **Alignment**
 Align the Outer Barrel holes with the Handguard. Pay attention to the **chamfered side**.
-![Barrel Alignment](Pages/Images/img8.jpg)
-![Barrel Alignment](Pages/Images/img9.jpg)
+![Barrel Alignment](Pages/Images/img8.jpg) | ![Barrel Alignment](Pages/Images/img9.jpg)
 
 ### **Joining**
 Slide the Upper into the Handguard and secure both sides with M3 screws.
-![Upper Handguard Join](Pages/Images/img11.jpg)
-![Upper Handguard Join](Pages/Images/img10.jpg)
+![Upper Handguard Join](Pages/Images/img11.jpg) | ![Upper Handguard Join](Pages/Images/img10.jpg)
 
 ### **Hop-up**
 Slide the assembled Hop-up and inner barrel into the Upper until it hits the internal limiter.
-![Hopup Install](Pages/Images/img12.jpg)
-![Hopup Install](Pages/Images/img12_1.jpg)
+![Hopup Install](Pages/Images/img12.jpg) | ![Hopup Install](Pages/Images/img12_1.jpg)
 ![Hopup Install](Pages/Images/img13.jpg)
 
 ---
@@ -103,13 +99,11 @@ Slide the assembled Hop-up and inner barrel into the Upper until it hits the int
 
 ### **Trigger Board**
 Fix the F2 trigger board to the left side of the Housing using the original small screw.
-![Trigger Board](Pages/Images/img14.jpg)
-![Trigger Board](Pages/Images/img15.jpg)
+![Trigger Board](Pages/Images/img14.jpg) | ![Trigger Board](Pages/Images/img15.jpg)
 
 ### **Assembly**
 Place the trigger blade in its housing, close it with the right side, and secure with M3 screws.
-![Housing Close](Pages/Images/img16.jpg)
-![Housing Close](Pages/Images/img17.jpg)
+![Housing Close](Pages/Images/img16.jpg) | ![Housing Close](Pages/Images/img17.jpg)
 
 ### **Selector**
 Snap the Selector Plate into place.
@@ -167,8 +161,7 @@ Install M3 inserts into the printed Stock part and bolt it to the tube.
 
 ### **Finalize**
 Connect the FCU and battery, tuck the wires into the tube, and slide it onto the Adapter.
-![Final Wiring](Pages/Images/img27.jpg)
-![Final Wiring](Pages/Images/img28.jpg)
+![Final Wiring](Pages/Images/img27.jpg) | ![Final Wiring](Pages/Images/img28.jpg)
 
 ---
 
