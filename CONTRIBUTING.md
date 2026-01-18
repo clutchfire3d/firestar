@@ -6,7 +6,7 @@ First of all, thank you for being interested in improving the Firestar platform!
 
 ### 1. Join our Community 💬
 The best way to get support, share your progress, and discuss improvements is through our official Discord server.
-* [**Join the Firestar Discord**](https://discord.gg/qV8xHUUq)
+* [**Join the Firestar Discord**](https://discord.gg/8hraAGcFYY)
 
 ### 2. Reporting Bugs 🐛
 If you find any issues with the 3D models (tolerances too tight, fragile parts, or alignment problems), please:

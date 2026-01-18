@@ -1,3 +1,8 @@
+> [!IMPORTANT]
+> **Official STL Files:** The 3D models for the Firestar platform will be available soon on the official **Polarstar Airsoft** website. Stay tuned to our [Discord community](https://discord.gg/8hraAGcFYY) for the official release announcement!
+
+---
+
 # Firestar – Assembly & Printing Manual 🚀
 **Created by:** [@ClutchFire3D](https://www.instagram.com/clutchfire3d/)
 
@@ -192,6 +197,6 @@ Connect the FCU and battery, tuck the wires into the tube, and slide it onto the
 ## 🔥 Build Complete!
 Share your Firestar build on Instagram and tag **@ClutchFire3D**.
 
-[Join our Discord](https://discord.gg/qV8xHUUq) | [Support the Project](https://clutchfire.com)
+[Join our Discord](https://discord.gg/8hraAGcFYY) | [Support the Project](https://clutchfire.com)
 
 ![Final Build](Pages/Images/img29.jpg)
