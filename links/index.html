@@ -4,10 +4,27 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>ClutchFire3D | Links</title>
+
+    <!-- Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-MMBWE5BMDW"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-MMBWE5BMDW');
+    </script>
+
+    <!-- Open Graph / Social Media Meta Tags -->
+    <meta property="og:title" content="ClutchFire3D | Links">
+    <meta property="og:description" content="Official links for ClutchFire3D - Firestar HPA Project, Discord, and more.">
+    <meta property="og:image" content="https://clutchfire3d.github.io/firestar/Pages/Images/ClutchFireImg.jpg">
+    <meta property="og:url" content="https://clutchfire3d.github.io/firestar/links/">
+    <meta property="og:type" content="website">
+
     <style>
         body {
             background-color: #0f0f0f; 
-            background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.85)), url('../Pages/Images/airsoft-bg.jpg');
+            background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.85));
             background-size: cover;
             background-position: center;
             background-attachment: fixed;
@@ -95,15 +112,15 @@
     <h1>ClutchFire3D</h1>
 
     <div class="container">
-        <a href="https://www.instagram.com/clutchfire3d/" target="_blank" class="link-card">📸 Follow on Instagram</a>
+        <a href="https://www.instagram.com/clutchfire3d/" target="_blank" class="link-card" onclick="gtag('event', 'click_instagram', {'event_category': 'link', 'event_label': 'Instagram'});">📸 Follow on Instagram</a>
 
-        <a href="https://clutchfire3d.github.io/firestar/discord" target="_blank" class="link-card">💬 Join our Discord Community</a>
+        <a href="https://clutchfire3d.github.io/firestar/discord" target="_blank" class="link-card" onclick="gtag('event', 'click_discord', {'event_category': 'link', 'event_label': 'Discord'});">💬 Join our Discord Community</a>
 
-        <a href="https://clutchfire3d.github.io/firestar/" target="_blank" class="link-card highlight">🔥 Firestar Building Manual</a>
+        <a href="https://clutchfire3d.github.io/firestar/" target="_blank" class="link-card highlight" onclick="gtag('event', 'click_manual', {'event_category': 'link', 'event_label': 'Firestar Manual'});">🔥 Firestar Building Manual</a>
 
-        <a href="https://github.com/clutchfire3d" target="_blank" class="link-card">💻 GitHub Repository</a>
+        <a href="https://github.com/clutchfire3d" target="_blank" class="link-card" onclick="gtag('event', 'click_github', {'event_category': 'link', 'event_label': 'GitHub'});">💻 GitHub Repository</a>
 
-        <a href="#" class="link-card" style="opacity: 0.5; cursor: not-allowed;">🛒 Project Files (Coming Soon)</a>
+        <a href="#" class="link-card" style="opacity: 0.5; cursor: not-allowed;" onclick="gtag('event', 'click_files_waitlist', {'event_category': 'link', 'event_label': 'Project Files Waitlist'});">🛒 Project Files (Coming Soon)</a>
     </div>
 
     <footer>© 2026 CLUTCHFIRE3D ENGINEERING</footer>
