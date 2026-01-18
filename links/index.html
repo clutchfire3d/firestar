@@ -6,66 +6,90 @@
     <title>ClutchFire3D | Links</title>
     <style>
         body {
-            background-color: #0f0f0f;
+            /* Fundo padrão caso a imagem falhe */
+            background-color: #0f0f0f; 
+            /* Tentativa de carregar imagem temática de Airsoft */
+            background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.85)), url('Pages/Images/airsoft-bg.jpg');
+            background-size: cover;
+            background-position: center;
+            background-attachment: fixed;
+            
             color: #ffffff;
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
             display: flex;
             flex-direction: column;
             align-items: center;
             padding: 40px 20px;
             margin: 0;
+            min-height: 100vh;
         }
+
         .profile-pic {
-            width: 100px;
-            height: 100px;
+            width: 110px;
+            height: 110px;
             border-radius: 50%;
-            border: 2px solid #ff4b2b;
+            border: 3px solid #ff4b2b;
             margin-bottom: 15px;
-            /* Se você tiver um logo, coloque a URL abaixo */
-            background-image: url('https://clutchfire3d.github.io/firestar/assets/logo.png'); 
+            /* Caminho corrigido da sua logo */
+            background-image: url('Pages/Images/ClutchFireImg.jpg'); 
             background-size: cover;
+            background-position: center;
+            background-color: #1a1a1a;
         }
+
         h1 {
-            font-size: 1.2rem;
-            letter-spacing: 2px;
-            margin-bottom: 30px;
+            font-size: 1.1rem;
+            letter-spacing: 3px;
+            margin-bottom: 35px;
             text-transform: uppercase;
+            font-weight: bold;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
         }
+
         .container {
             width: 100%;
-            max-width: 400px;
+            max-width: 380px;
             display: flex;
             flex-direction: column;
-            gap: 15px;
+            gap: 16px;
         }
+
         .link-card {
-            background: #1a1a1a;
-            border: 1px solid #333;
-            padding: 18px;
+            background: rgba(26, 26, 26, 0.9);
+            border: 1px solid #444;
+            padding: 16px;
             text-align: center;
             text-decoration: none;
             color: #fff;
-            border-radius: 8px;
+            border-radius: 12px;
             font-weight: 600;
-            transition: all 0.3s ease;
+            transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
             display: block;
+            backdrop-filter: blur(5px); /* Efeito de vidro */
         }
+
         .link-card:hover {
             border-color: #ff4b2b;
-            background: #252525;
-            transform: translateY(-2px);
+            background: rgba(40, 40, 40, 1);
+            transform: scale(1.02);
         }
+
         .highlight {
-            background: linear-gradient(45deg, #ff4b2b, #ff0606);
+            background: linear-gradient(45deg, #ff4b2b, #d41414);
             border: none;
+            box-shadow: 0 4px 15px rgba(212, 20, 20, 0.3);
         }
+
         .highlight:hover {
-            box-shadow: 0 5px 15px rgba(255, 75, 43, 0.4);
+            box-shadow: 0 6px 20px rgba(212, 20, 20, 0.5);
         }
+
         footer {
-            margin-top: 50px;
-            font-size: 0.8rem;
-            color: #555;
+            margin-top: auto;
+            padding-top: 40px;
+            font-size: 0.75rem;
+            color: #aaa;
+            letter-spacing: 1px;
         }
     </style>
 </head>
@@ -75,16 +99,16 @@
     <h1>ClutchFire3D</h1>
 
     <div class="container">
-        <a href="https://clutchfire3d.github.io/firestar/" class="link-card highlight">📖 Official Manual & Docs</a>
+        <a href="https://clutchfire3d.github.io/firestar/" class="link-card highlight">🔥 Firestar Building Manual</a>
 
-        <a href="https://clutchfire3d.github.io/firestar/discord" class="link-card">💬 Join our Discord</a>
+        <a href="https://clutchfire3d.github.io/firestar/discord" class="link-card">💬 Join our Discord Community</a>
 
-        <a href="https://instagram.com/SEU_USER" class="link-card">📸 Instagram</a>
+        <a href="https://www.instagram.com/clutchfire3d/" target="_blank" class="link-card">📸 Follow on Instagram</a>
 
-        <a href="#" class="link-card" style="opacity: 0.6;">🛒 Digital Files (Coming Soon)</a>
+        <a href="#" class="link-card" style="opacity: 0.5; cursor: not-allowed;">🛒 Project Files (Coming Soon)</a>
     </div>
 
-    <footer>© 2026 ClutchFire3D Engineering</footer>
+    <footer>© 2026 CLUTCHFIRE3D ENGINEERING</footer>
 
 </body>
 </html>
